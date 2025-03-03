@@ -1,0 +1,32 @@
+changelog:
+  categories:
+    - title: 💻 C++
+      labels: 
+        - "cpp/doc"
+      sections:
+        - title: 🚀 Thrust / CUB
+          labels:
+            - "cpp/thrust"
+            - "cpp/cub"
+        - title: 📚 Libcudacxx
+          labels:
+            - "cpp/libcudacxx"
+    
+    - title: 🐍 Python
+      labels:
+        - "python/doc"
+      sections:
+        - title: 🤝 cuda.cooperative
+          labels:
+            - "python/cooperative"
+        - title: ⚡ cuda.parallel
+          labels:
+            - "python/parallel"
+    
+    - title: 📖 Documentation
+      labels:
+        - "doc"
+    
+    - title: 🔄 Other Changes
+      labels:
+        - other
